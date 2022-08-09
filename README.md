@@ -1,11 +1,10 @@
 # README
 
-## knowledge
+## tool
 
-### github
+* [knowledge base](./repo/tool/knowledge_base.md)
 
-* [toeverything/AFFiNE - next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.](https://github.com/toeverything/AFFiNE)
 
-### clone
+## infrastructure
 
-* [knowledge_base](./repo/knowledge_base.md)
+* [consul](./repo/infrastructure/consul.md)
