@@ -1,2 +1,4 @@
 git@github.com:swagger-api/swagger-codegen.git
 git@github.com:OpenAPITools/openapi-generator.git
+git@github.com:contiamo/openapi-generator-go.git
+git@github.com:deepmap/oapi-codegen.git

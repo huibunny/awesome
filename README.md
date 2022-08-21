@@ -6,6 +6,8 @@
 
 * [codegen](./repo/tool/codegen.md)
 
+* [migrate]()
+
 ## infrastructure
 
 * [consul](./repo/infrastructure/consul.md)
